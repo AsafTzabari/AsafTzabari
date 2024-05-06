@@ -21,10 +21,10 @@
 
 # 🏅 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsafTzabari&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsafTzabari&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
